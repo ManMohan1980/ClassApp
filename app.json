@@ -1,0 +1,25 @@
+{
+  "id": "6dd1fb66-2dbe-493e-b1b9-c03dabfd6c72",
+  "name": "ClassApp",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 51000
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
